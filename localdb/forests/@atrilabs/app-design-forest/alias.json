@@ -1,0 +1,15 @@
+{
+  "Menu": 1,
+  "VerticalMenu": 1,
+  "Div": 69,
+  "Flex": 34,
+  "Button": 32,
+  "TextBox": 70,
+  "Icon": 1,
+  "Input": 14,
+  "Image": 28,
+  "Overlay": 2,
+  "Cascader": 1,
+  "Testimonial": 1,
+  "UnorderedList": 1
+}
